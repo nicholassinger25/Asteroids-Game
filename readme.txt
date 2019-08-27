@@ -1,3 +1,4 @@
+This is the game of Asteroids programmed in C++ using the SFML library.
 This game was made possible and worked on by a group of people including: Thomas Beeson, Matt Clark, and me (Nick Singer). We also used the help with collision code by Nick Koirala.
 File:   collision.h
 Authors: Nick Koirala (original version), ahnonay (SFML2 compatibility)
